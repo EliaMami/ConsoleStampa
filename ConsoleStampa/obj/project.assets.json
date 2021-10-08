@@ -8,25 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\elia.mami.ITT\\.nuget\\packages\\": {},
+    "C:\\Users\\nicolas.mancini.ITT\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elia.mami.ITT\\Documents\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
+      "projectUniqueName": "C:\\Users\\nicolas.mancini.ITT\\Documents\\ProgettoStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
       "projectName": "ConsoleStampa",
-      "projectPath": "C:\\Users\\elia.mami.ITT\\Documents\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
-      "packagesPath": "C:\\Users\\elia.mami.ITT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elia.mami.ITT\\Documents\\ConsoleStampa\\ConsoleStampa\\obj\\",
+      "projectPath": "C:\\Users\\nicolas.mancini.ITT\\Documents\\ProgettoStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
+      "packagesPath": "C:\\Users\\nicolas.mancini.ITT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nicolas.mancini.ITT\\Documents\\ProgettoStampa\\ConsoleStampa\\ConsoleStampa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\elia.mami.ITT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nicolas.mancini.ITT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
